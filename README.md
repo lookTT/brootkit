@@ -1,3 +1,8 @@
+说明
+--------------
+使用了cloudsec的brootkit工具，感谢该作者的分享，有时间会在此基础上增加一些功能与实际工具
+可直接参考cloudsec的github主页 https://github.com/cloudsec/brootkit
+
 ######BROOTKIT
     Lightweight rootkit implemented using bash shell scripts v0.10
     
